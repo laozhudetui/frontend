@@ -38,7 +38,7 @@
     "oidc-client": "^1.11.3",
     "perfect-scrollbar": "^1.4.0",
     "simple-line-icons": "^2.5.5",
-    "vee-validate": "^3.4.5",
+    "vee-validate": "^3.4.12",
     "vue": "^2.6.12",
     "vue-axios": "^2.1.5",
     "vue-bootstrap-toggle": "^1.1.4",
