@@ -39,7 +39,7 @@
     "perfect-scrollbar": "^1.4.0",
     "simple-line-icons": "^2.5.5",
     "vee-validate": "^3.4.5",
-    "vue": "^2.6.12",
+    "vue": "^3.0.0",
     "vue-axios": "^2.1.5",
     "vue-bootstrap-toggle": "^1.1.4",
     "vue-chartjs": "^3.5.1",
